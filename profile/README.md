@@ -1,4 +1,3 @@
-# RoboRex FRC
 
 Official GitHub organization for RoboRex #11070.
 <p align="center">
