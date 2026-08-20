@@ -19,8 +19,8 @@
 <hr>
 <h2><a href="https://www.firstinspires.org/">What is FIRST Robotics?</a></h2>
 <div>
-  <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/FIRST_Vertical_RGB_reverse.png?raw=true" width="120"
-     height="120"
+  <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/FIRST_Vertical_RGB_reverse.png?raw=true" width="150"
+     height="150"
      align="right"
      hspace="25"
      vspace="5"/>
