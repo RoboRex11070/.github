@@ -1,6 +1,5 @@
 <p align="center">
   <img
-    src="./Animated_Banner_Downsacled.gif"
     src="./Animated_Banner_Downscaled.gif"
     alt="RoboRex Team 11070 banner"
     width="100%"
