@@ -19,7 +19,11 @@
 <hr>
 <h2><a href="https://www.firstinspires.org/">What is FIRST Robotics?</a></h2>
 <div>
-  <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/FIRST_Vertical_RGB_reverse.png?raw=true" height="129" width="172" align="right">
+  <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/FIRST_Vertical_RGB_reverse.png?raw=true" width="120"
+     height="120"
+     align="right"
+     hspace="25"
+     vspace="5"/>
   <p>
     FIRST Robotics is a non-profit organization founded by inventor Dean Kamen in 1989 to inspire young people's interest and participation in science and technology. FIRST stands for "For Inspiration and Recognition of Science and Technology". The organization hosts several robotics competitions each year for students from around the world to demonstrate their engineering and problem-solving skills. 
   </p>
