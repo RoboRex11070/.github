@@ -8,7 +8,7 @@
      width="120"
      height="250"
      align="left"
-     hspace="40"/>
+     hspace="90"/>
 <p>
     We are team RoboRex #11070 from the Drom Hasharon Regional Council. Our team was founded on July 1st, 2025, following the closing of the robotics program at the school in the   middle of the year, and the initiative was taken to continue engaging in robotics. The team consists of about 40 students from grades 9 to 12, who work together through cooperation, hard work, and a shared desire to learn and develop. A central part of the team's activity is working with the community: exposing students to the world of STEM through activities and workshops that encourage curiosity and interest in science and technology.
 </p>
