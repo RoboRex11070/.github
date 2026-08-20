@@ -2,7 +2,7 @@
   <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/Banner.png?raw=true">
 </p>
 <div style="clear: both;"></div>
-<h2><a href="To come">Who are we?</a></h2>
+<h2><a>Who are we?</a></h2>
 <div>
     <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/RoboRexLogo.png?raw=true"
      width="120"
