@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/Banner.png?raw=true">
+  <img
+    src="./Animated_Banner.gif"
+    alt="RoboRex Team 11070 banner"
+    width="100%"
+  >
 </p>
 
 <br clear="both">
