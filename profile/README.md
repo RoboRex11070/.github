@@ -5,7 +5,7 @@
 <h2><a href="https://www.thebluealliance.com/team/11070">Who are we?</a></h2>
 <div>
     <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/RoboRexLogo.png?raw=true"
-     width="180"
+     width="150"
      height="180"
      align="left"
      hspace="90"/>
