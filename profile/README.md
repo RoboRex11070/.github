@@ -6,7 +6,7 @@
 <div>
     <img src="https://github.com/RoboRexFRC/.github/blob/main/profile/RoboRexLogo.png?raw=true"
      width="120"
-     height="150"
+     height="250"
      align="left"
      hspace="40"/>
 <p>
