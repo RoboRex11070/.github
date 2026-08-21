@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Animated_Banner_OptimizedV1.gif"
+    src="https://github.com/RoboRex11070/.github/blob/main/profile/Animated_Banner_OptimizedV1.gif"
     alt="RoboRex Team 11070 banner"
     width="100%"
   >
